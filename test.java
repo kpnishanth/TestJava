@@ -3,7 +3,7 @@ public class test{
 public static void main (String args[]){
 
 System.out.println("Hello Nishanth");
-System.out.println("Sum of two numbers is I DNOT KNOW");
+System.out.println("Sum of two numbers is TEsttetestestet");
 }
 
 
